@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F9FAFB;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1D4ED8;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.hero {
+    padding: 40px;
+    text-align: center;
+}
+form {
+    margin-top: 20px;
+}
+input, select, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    max-width: 300px;
+}
+button {
+    background-color: #1D4ED8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
